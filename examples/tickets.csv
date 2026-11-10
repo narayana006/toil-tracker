@@ -1,0 +1,103 @@
+id,created_at,type,title,minutes_spent,assignee
+OPS-2101,2026-07-21T11:05:00Z,page,Restart stuck worker on queue-4,,dmitri
+OPS-2102,2026-07-22T17:13:00Z,ticket,Rotate TLS certificate for admin.example.com,60,ben
+OPS-2103,2026-07-24T15:29:00Z,page,Restart stuck workers on queue-2,,ben
+OPS-2104,2026-07-25T12:02:00Z,ticket,Grant read access to billing database for m.garcia@example.com,20,asha
+OPS-2105,2026-07-25T14:58:00Z,ticket,Investigate checkout latency regression after 2026-07-24 release,240,ben
+OPS-2106,2026-07-25T17:00:00Z,page,Disk full on kafka-12 (99%),25,elena
+OPS-2107,2026-07-27T09:46:00Z,ticket,Grant write access to orders database for j.smith@example.com,25,chen
+OPS-2108,2026-07-29T17:31:00Z,ticket,Rotate TLS certificate for admin.example.com,60,ben
+OPS-2109,2026-07-31T11:38:00Z,page,Disk full on db-prod-01 (90%),25,asha
+OPS-2110,2026-07-31T15:34:00Z,ticket,Grant read access to billing database for j.smith@example.com,15,chen
+OPS-2111,2026-08-01T11:33:00Z,page,Disk full on logs-06 (97%),,ben
+OPS-2112,2026-08-03T09:37:00Z,ticket,Increase quota for project hermes-96,,asha
+OPS-2113,2026-08-05T13:05:00Z,ticket,Grant write access to billing database for a.kumar@example.com,20,dmitri
+OPS-2114,2026-08-05T16:00:00Z,ticket,Rotate TLS certificate for www.example.com,90,asha
+OPS-2115,2026-08-06T17:00:00Z,ticket,Grant read access to analytics database for j.smith@example.com,25,elena
+OPS-2116,2026-08-06T17:10:00Z,ticket,Design review: multi-region failover for orders service,180,asha
+OPS-2117,2026-08-07T09:29:00Z,page,Disk full on kafka-05 (97%),20,chen
+OPS-2118,2026-08-09T15:04:00Z,ticket,Increase quota for project atlas-97,,asha
+OPS-2119,2026-08-11T15:27:00Z,ticket,Increase quota for project hermes-60,,elena
+OPS-2120,2026-08-11T16:36:00Z,page,Restart stuck worker on queue-4,,elena
+OPS-2121,2026-08-11T17:04:00Z,ticket,Grant write access to analytics database for m.garcia@example.com,15,asha
+OPS-2122,2026-08-12T10:56:00Z,ticket,Deploy failed: pipeline #4398 stuck at integration tests,30,ben
+OPS-2123,2026-08-12T11:38:00Z,ticket,Increase quota for project hermes-65,,chen
+OPS-2124,2026-08-12T13:48:00Z,page,Disk full on logs-09 (91%),30,ben
+OPS-2125,2026-08-12T16:58:00Z,ticket,Rotate TLS certificate for pay.example.com,45,asha
+OPS-2126,2026-08-13T09:16:00Z,ticket,Deploy failed: pipeline #4271 stuck at integration tests,50,dmitri
+OPS-2127,2026-08-13T17:49:00Z,page,Disk full on kafka-05 (90%),20,asha
+OPS-2128,2026-08-14T13:41:00Z,page,Restart stuck workers on queue-4,,ben
+OPS-2129,2026-08-15T08:54:00Z,ticket,Increase quota for project atlas-91,,ben
+OPS-2130,2026-08-16T14:34:00Z,ticket,Deploy failed: pipeline #4198 stuck at integration tests,35,ben
+OPS-2131,2026-08-17T09:13:00Z,page,Restart stuck worker on queue-6,,ben
+OPS-2132,2026-08-19T09:44:00Z,ticket,Rotate TLS certificate for pay.example.com,45,ben
+OPS-2133,2026-08-20T14:46:00Z,ticket,Grant read access to orders database for j.smith@example.com,20,chen
+OPS-2134,2026-08-21T12:34:00Z,page,Restart stuck workers on queue-1,,chen
+OPS-2135,2026-08-22T16:50:00Z,page,Payment gateway outage,150,asha
+OPS-2136,2026-08-23T08:22:00Z,page,Restart stuck workers on queue-6,,elena
+OPS-2137,2026-08-25T15:29:00Z,ticket,Grant read access to orders database for t.nguyen@example.com,25,elena
+OPS-2138,2026-08-26T14:58:00Z,ticket,Rotate TLS certificate for www.example.com,45,ben
+OPS-2139,2026-08-27T09:01:00Z,page,Disk full on logs-02 (94%),40,asha
+OPS-2140,2026-08-29T08:06:00Z,ticket,Deploy failed: pipeline #4410 stuck at integration tests,35,ben
+OPS-2141,2026-08-31T12:38:00Z,ticket,Grant read access to orders database for t.nguyen@example.com,15,asha
+OPS-2142,2026-09-02T13:58:00Z,ticket,Deploy failed: pipeline #5167 stuck at integration tests,50,chen
+OPS-2143,2026-09-02T15:21:00Z,page,Restart stuck worker on queue-1,,elena
+OPS-2144,2026-09-02T15:31:00Z,ticket,Rotate TLS certificate for pay.example.com,60,asha
+OPS-2145,2026-09-04T15:49:00Z,ticket,Grant read access to billing database for a.kumar@example.com,15,elena
+OPS-2146,2026-09-05T13:19:00Z,ticket,Grant write access to analytics database for l.chen@example.com,15,ben
+OPS-2147,2026-09-06T13:57:00Z,ticket,Upgrade Postgres 15 to 16 on staging,300,asha
+OPS-2148,2026-09-08T14:45:00Z,page,Disk full on db-prod-04 (90%),40,dmitri
+OPS-2149,2026-09-09T15:33:00Z,ticket,Rotate TLS certificate for www.example.com,60,ben
+OPS-2150,2026-09-15T12:21:00Z,page,Disk full on logs-02 (99%),25,asha
+OPS-2151,2026-09-15T13:42:00Z,ticket,Grant write access to orders database for a.kumar@example.com,20,dmitri
+OPS-2152,2026-09-16T14:39:00Z,ticket,Rotate TLS certificate for admin.example.com,45,asha
+OPS-2153,2026-09-17T09:08:00Z,page,Disk full on logs-06 (90%),40,ben
+OPS-2154,2026-09-18T15:51:00Z,page,Disk full on kafka-02 (90%),20,dmitri
+OPS-2155,2026-09-18T15:58:00Z,page,Restart stuck workers on queue-3,,asha
+OPS-2156,2026-09-19T14:36:00Z,ticket,Write runbook for cache cluster failover,120,elena
+OPS-2157,2026-09-23T08:02:00Z,ticket,Rotate TLS certificate for api.example.com,60,asha
+OPS-2158,2026-09-23T15:32:00Z,page,Disk full on db-prod-11 (98%),25,ben
+OPS-2159,2026-09-24T12:12:00Z,ticket,Grant read access to billing database for l.chen@example.com,25,dmitri
+OPS-2160,2026-09-25T17:58:00Z,ticket,Grant read access to billing database for m.garcia@example.com,20,chen
+OPS-2161,2026-09-26T09:25:00Z,page,Disk full on kafka-03 (96%),40,dmitri
+OPS-2162,2026-09-26T14:51:00Z,page,Restart stuck worker on queue-1,,asha
+OPS-2163,2026-09-27T13:43:00Z,page,Restart stuck worker on queue-5,,ben
+OPS-2164,2026-09-29T12:56:00Z,page,Disk full on db-prod-01 (94%),,asha
+OPS-2165,2026-09-30T08:43:00Z,ticket,Rotate TLS certificate for www.example.com,60,asha
+OPS-2166,2026-10-01T13:53:00Z,ticket,Grant read access to billing database for a.kumar@example.com,25,asha
+OPS-2167,2026-10-02T09:28:00Z,ticket,Grant write access to billing database for l.chen@example.com,20,dmitri
+OPS-2168,2026-10-03T16:31:00Z,ticket,Grant read access to billing database for m.garcia@example.com,25,chen
+OPS-2169,2026-10-03T17:06:00Z,page,Disk full on db-prod-03 (96%),,asha
+OPS-2170,2026-10-04T08:49:00Z,page,Disk full on db-prod-04 (97%),30,elena
+OPS-2171,2026-10-05T11:32:00Z,page,DNS resolution failures in eu-west,95,elena
+OPS-2172,2026-10-05T16:40:00Z,ticket,Deploy failed: pipeline #4236 stuck at integration tests,50,chen
+OPS-2173,2026-10-06T09:05:00Z,page,Disk full on logs-05 (96%),20,ben
+OPS-2174,2026-10-07T11:39:00Z,ticket,Rotate TLS certificate for admin.example.com,60,ben
+OPS-2175,2026-10-08T11:51:00Z,ticket,Deploy failed: pipeline #5029 stuck at integration tests,50,asha
+OPS-2176,2026-10-08T17:23:00Z,page,Disk full on kafka-11 (93%),20,chen
+OPS-2177,2026-10-09T15:53:00Z,page,Disk full on kafka-08 (92%),,elena
+OPS-2178,2026-10-12T09:53:00Z,ticket,Grant write access to orders database for m.garcia@example.com,20,asha
+OPS-2179,2026-10-14T17:07:00Z,ticket,Rotate TLS certificate for pay.example.com,45,ben
+OPS-2180,2026-10-16T12:58:00Z,page,Disk full on db-prod-07 (92%),25,ben
+OPS-2181,2026-10-16T17:22:00Z,ticket,Grant read access to orders database for j.smith@example.com,20,chen
+OPS-2182,2026-10-18T13:51:00Z,ticket,Evaluate new log shipping agent,200,chen
+OPS-2183,2026-10-19T16:57:00Z,page,Restart stuck workers on queue-2,,elena
+OPS-2184,2026-10-21T08:24:00Z,ticket,Rotate TLS certificate for admin.example.com,60,ben
+OPS-2185,2026-10-21T14:29:00Z,ticket,Grant write access to orders database for j.smith@example.com,20,ben
+OPS-2186,2026-10-22T08:02:00Z,ticket,Deploy failed: pipeline #4987 stuck at integration tests,30,elena
+OPS-2187,2026-10-22T16:12:00Z,page,Disk full on kafka-04 (93%),25,dmitri
+OPS-2188,2026-10-24T17:44:00Z,page,Restart stuck workers on queue-4,,asha
+OPS-2189,2026-10-25T08:40:00Z,ticket,Grant read access to analytics database for a.kumar@example.com,20,asha
+OPS-2190,2026-10-27T08:06:00Z,page,Disk full on logs-10 (91%),40,asha
+OPS-2191,2026-10-27T16:35:00Z,page,Restart stuck worker on queue-4,,chen
+OPS-2192,2026-10-28T16:40:00Z,ticket,Rotate TLS certificate for pay.example.com,60,asha
+OPS-2193,2026-10-29T12:58:00Z,ticket,Fix flaky integration test in billing service,60,asha
+OPS-2194,2026-10-29T14:16:00Z,page,Disk full on db-prod-09 (94%),25,dmitri
+OPS-2195,2026-10-31T15:09:00Z,ticket,Deploy failed: pipeline #5054 stuck at integration tests,50,ben
+OPS-2196,2026-11-01T10:59:00Z,page,Disk full on kafka-08 (94%),,asha
+OPS-2197,2026-11-02T16:53:00Z,page,Restart stuck worker on queue-5,,elena
+OPS-2198,2026-11-02T17:39:00Z,page,Disk full on db-prod-04 (97%),,asha
+OPS-2199,2026-11-04T11:58:00Z,ticket,Rotate TLS certificate for www.example.com,60,asha
+OPS-2200,2026-11-04T15:23:00Z,ticket,Increase quota for project atlas-62,,chen
+OPS-2201,2026-11-06T09:17:00Z,page,Disk full on logs-04 (93%),20,dmitri
+OPS-2202,2026-11-06T09:43:00Z,ticket,Grant read access to billing database for t.nguyen@example.com,20,ben
